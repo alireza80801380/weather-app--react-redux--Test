@@ -1,0 +1,5 @@
+
+export const SEND_REQUEST = "SEND_REQUEST"
+export const SEND_REQUEST2 = "SEND_REQUEST2"
+export const RECIVE_REQUEST = "RECIVE_REQUEST"
+export const ERROR_REQUEST = "ERROR_REQUEST"
